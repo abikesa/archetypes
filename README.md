@@ -6,6 +6,7 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
               2. Metaphysics -> 4. Song -> 5. Art -> 6. Life
                                 /
                                 3. Physics
+>A few reviewers have expressed reservations. To Pauline Kael, "It's far from a great film, but it has a special appealingly schlocky romanticism ..." Umberto Eco wrote that "by any strict critical standards ... Casablanca is a very mediocre film". He viewed the changes that the characters manifest as inconsistent rather than complex. "It is a comic strip, a hotchpotch, low on psychological credibility, and with little continuity in its dramatic effects." However, he added that because of the presence of [multiple archetypes](https://en.wikipedia.org/wiki/Casablanca_(film)#Enduring_popularity) that allow "the power of Narrative in its natural state without Art intervening to discipline it", it is a film reaching "Homeric depths" as a "phenomenon worthy of awe"
 1. Construct: Analysis
 2. Metaphysics: Dynamic
 3. Physics: `Freudian Ensemble`
