@@ -40,4 +40,5 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Seeketh, Findeth, Commandeth
    - `Mismatch`, `Victory`, `Ragnarok`
 
-"It looks like love has triumphed over virtue"- Prefect
+"It looks like love has triumphed over virtue"- Louis   
+"Not only are you a sentimentalist, but I can confirm that you are also a patriot"- Louis    
