@@ -7,28 +7,37 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
                                 /
                                 3. Physics
 >A few reviewers have expressed reservations. To Pauline Kael, "It's far from a great film, but it has a special appealingly schlocky romanticism ..." Umberto Eco wrote that "by any strict critical standards ... Casablanca is a very mediocre film". He viewed the changes that the characters manifest as inconsistent rather than complex. "It is a comic strip, a hotchpotch, low on psychological credibility, and with little continuity in its dramatic effects." However, he added that because of the presence of [multiple archetypes](https://en.wikipedia.org/wiki/Casablanca_(film)#Enduring_popularity) that allow "the power of Narrative in its natural state without Art intervening to discipline it", it is a film reaching "Homeric depths" as a "phenomenon worthy of awe"
-1. Construct: Analysis
-2. Metaphysics: Dynamic
-3. Physics: `Freudian Ensemble`
+1. Construct: Birth of Tragedy
+   - Epicurean prudence: Hide; Prov. 27:12 
+   - Metaphysically comforting (Martyrs now; Celebrants in final judgmement; idealists); Platonic
+   - Strong: idolators of the golden earth in whicever form
+2. Metaphysics: Out of the Spirit of Music
+   - Nietzsche
+   - Freud
+   - Jung
+3. Physics: Frequency, Amplitude, Timbre
+   - Interfearance patterns amongst the ensemble
+4. Song: `Freudian Ensemble`
    - Ego/Self
    - Superego/Other
    - Id/Undercurrents
       - David
       - Caesar
-      - Napoleon 
-4. Song: Melody
+      - Napoleon
 5. Art: Chord Progression
-6. Life: Rhythm
-
-# Archetypes
-- Hideth, Whineth, Tameth
-- Self(ish), Other, Unleashed
-- Root, Triad, Extensions
-- Pussies, Assholes, Dicks
-- Child, Man, God
-- 1-3, 4-200, '000s
-- Love, Virtue, Evil
-- Flock, Priest, Warrior
-- Seeketh, Findeth, Commandeth
+   - Root, Triad, Ex`tensensions`
+   - Traditional, Worship, Churchy
+   - Blues, Secondary dominants, Jazz
+6. Life: `Jungian Archetypes`
+   - Hideth, Whineth, Tameth
+   - Self(ish), Other, Unleashed
+   - Root, Triad, Extensions
+   - Pussies, Assholes, Dicks
+   - Child, Man, God
+   - 1-3, 4-200, '000s
+   - Love, Virtue, Evil
+   - Flock, Priest, Warrior
+   - Seeketh, Findeth, Commandeth
+   - `Mismatch`, `Victory`, `Ragnarok`
 
 "It looks like love has triumphed over virtue"- Prefect
