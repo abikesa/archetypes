@@ -38,6 +38,9 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Child, Man, Divine
    - 1-3, 4-200, ['000s](https://www.youtube.com/watch?v=Mw8NR6p8gyI)
    - Decode, Code, Encode
+   - Novice, Trained, Pro
+   - Traditional, Blues, Jazz
+   - Read, Practice, Improvise
    - Love, Virtue, Evil
    - Flock, Priest, Warrior
    - Seeketh, Findeth, Commandeth
