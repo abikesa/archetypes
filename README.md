@@ -61,6 +61,11 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Values, People, Deity
    - Inner, Outer, Transcendental
    - Senses, Mind, Usurpation
+   - Passivity, Revenge, [Aggression](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm#WHY_I_AM_SO_WISE)
+   - Withdrawn, Weak, Strong
+   - Child, Woman, Man
+   - ?, Complete Mismatch (Dishonorable setup), Worthy adversary (Honorable Duel)
+   - Unallied, Triumphant, Attack
    
 > Their [love triangle](https://calgaryherald.com/news/local-news/casablanca-had-a-rocky-start-80-years-later-still-a-classic-from-the-archives)— scandalous for Hollywood at the time — fuels the tension of the movie as a succession of desperate refugees visit Rick’s Café Américain in Morocco while trying to escape the viciousness of Nazi-occupied Europe
 
