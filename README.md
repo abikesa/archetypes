@@ -42,3 +42,16 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
 
 "It looks like love has triumphed over virtue"- Louis   
 "Not only are you a sentimentalist, but I can confirm that you are also a patriot"- Louis    
+
+# Salieri
+
+- Self(ish)
+   - Earthly pleasure he indulges in as a form of consolation (sweet tooth)  
+- Other
+   - Yearning to devote himself to God's work including chastity (feels his denied)
+- God
+   - Divine inspiration Mozart effortlessly brandishes (a vulgar monkey)
+
+In Miloš Forman's *Amadeus*, Antonio Salieri is portrayed with a notable sweet tooth as a distinctive character trait. This trait serves as a symbolic plot device that contrasts with his `complex` relationship with Wolfgang Amadeus Mozart and the divine inspiration he perceives Mozart to possess. Salieri's indulgence in sweets becomes a metaphor for his yearning for the sweetness of divine musical inspiration, which he feels is denied to him despite his deep devotion and hard work.
+
+Salieri's envy of Mozart's natural talent and effortless genius is juxtaposed with his own struggles and perceived mediocrity. His consumption of sweets symbolizes his attempts to find some form of consolation or pleasure in his otherwise unfulfilled life and career, overshadowed by Mozart's brilliance. This character trait is used effectively throughout the film to highlight Salieri's inner turmoil, jealousy, and the contrast between the earthly pleasures he indulges in and the heavenly inspiration he desperately seeks but cannot attain.
