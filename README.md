@@ -33,12 +33,13 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Self(ish), Other, Unleashed
    - Root, Triad, Extensions
    - Pussies, Assholes, Dicks
-   - Child, Man, God
+   - Child, Man, Divine
    - 1-3, 4-200, '000s
    - Love, Virtue, Evil
    - Flock, Priest, Warrior
    - Seeketh, Findeth, Commandeth
    - `Mismatch`, `Victory`, `Ragnarok`
+   - Self, Neighbor, God
 
 "It looks like love has triumphed over virtue"- Louis   
 "Not only are you a sentimentalist, but I can confirm that you are also a patriot"- Louis    
