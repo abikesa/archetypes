@@ -2,7 +2,7 @@
 
 1. [Ego](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm)/`Self`/Faith. Never had ill-feeling about self. Attribute it to my father 
 2. Superego/`Neighbor`/Pity. Thus never felt the need to be a martyr for others, however un-Christian that may seem 
-3. Id/`Dionysus`/Zarathustra. All I’ve know is honest response to my senses of power and life; this sends out positive vibes that resonate - I tame bears, clowns behave decently around me, and I have never had reason to administer punishment to my students; even the laziest are transformed into the most active students
+3. Id/`Dionysus`/Zarathustra. All I’ve know is honest response to my [senses of power and life](https://github.com/abikesa/music/blob/main/voicing.md); this sends out positive vibes that resonate - I tame bears, clowns behave decently around me, and I have never had reason to administer punishment to my students; even the laziest are transformed into the most active students
 
 #
 
