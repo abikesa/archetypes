@@ -12,23 +12,25 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Metaphysically comforting (Martyrs now; Celebrants in final judgmement; idealists); Platonic
    - Strong: idolators of the golden earth in whicever form
 2. Metaphysics: Out of the Spirit of Music
+   - Christ
    - Nietzsche
    - Freud
    - Jung
-3. Physics: Frequency, Amplitude, Timbre
+   - Yourstruly
+4. Physics: Frequency, Amplitude, Timbre
    - Interfearance patterns amongst the ensemble
-4. Song: `Freudian Ensemble`
+5. Song: `Freudian Ensemble`
    - Ego/Self
    - Superego/Other
    - Id/Undercurrents
       - David
       - Caesar
       - Napoleon
-5. Art: Chord Progression
+6. Art: Chord Progression
    - Root, Triad, Ex`tensensions`
    - Traditional, Worship, Churchy
    - Blues, Secondary dominants, Jazz
-6. Life: `Jungian Archetypes`
+7. Life: `Jungian Archetypes`
    - Hideth, Whineth, Tameth
    - Self(ish), Other, Unleashed
    - Root, Triad, Extensions
