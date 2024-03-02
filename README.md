@@ -37,6 +37,9 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Pussies, Assholes, Dicks
    - Child, Man, Divine
    - 1-3, 4-200, ['000s](https://www.youtube.com/watch?v=Mw8NR6p8gyI)
+      - Mozart's [outrage](https://en.wikipedia.org/wiki/Amadeus_(film)) on being asked by "The Italians" to submit his manuscripts for consideration as instructor to the emporors niece
+      - And of course yours truly [distancing](https://pubmed.ncbi.nlm.nih.gov/37965904/) himself from a manuscript Fawaz insists yours truly should be senior author on
+      - If one's name is associated with the `gods`, then it being associcated with the mundane messes up the `odds`
    - Decode, Code, Encode
    - Novice, Trained, Pro
    - Traditional, Blues, Jazz
