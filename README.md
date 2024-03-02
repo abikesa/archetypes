@@ -41,6 +41,9 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
       - And of course yours truly [distancing](https://pubmed.ncbi.nlm.nih.gov/37965904/) himself from a manuscript Fawaz insists yours truly should be senior author on
       - If one's name is associated with the `gods`, then it being associcated with the mundane messes up the `odds`
    - Decode, Code, Encode
+      - First drafts! No mistakes!
+      - He'd already composed all the music in his head
+      - Displace one note, and there'd be diminishment; replace one phrase, and the structure would fall
    - Novice, Trained, Pro
    - Traditional, Blues, Jazz
    - Read, Practice, Improvise
