@@ -48,6 +48,8 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Village, Regional, Internation
    - Specific, General, Universal
    - Values, People, Deity
+   - Inner, Outer, Transcendental
+   - Senses, Mind, Usurpation
    
 > Their [love triangle](https://calgaryherald.com/news/local-news/casablanca-had-a-rocky-start-80-years-later-still-a-classic-from-the-archives)— scandalous for Hollywood at the time — fuels the tension of the movie as a succession of desperate refugees visit Rick’s Café Américain in Morocco while trying to escape the viciousness of Nazi-occupied Europe
 
