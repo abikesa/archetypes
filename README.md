@@ -44,6 +44,7 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
       - First drafts! No mistakes!
       - He'd already composed all the music in his head
       - Displace one note, and there'd be diminishment; replace one phrase, and the structure would fall
+   - Forgiveness, Mercy, Torture
    - Novice, Trained, Pro
    - Traditional, Blues, Jazz
    - Read, Practice, Improvise
