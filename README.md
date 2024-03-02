@@ -62,7 +62,9 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Inner, Outer, Transcendental
    - Senses, Mind, Usurpation
    - [Pacifist](https://www.reddit.com/r/lebowski/comments/16rxs25/dude_gives_up_pacifism_at_the_end/), [Revenge](https://en.wikipedia.org/wiki/Quentin_Tarantino), [Aggression](https://www.gutenberg.org/files/52190/52190-h/52190-h.htm#WHY_I_AM_SO_WISE)
-   - Fatalism (Russian), Resentment (Priestly), Freedom (Zarathustrean)
+   - Fatalism, Resentment, Freedom  
+   - Russian, Priest, Zarathustra
+   - Sense, Process, React
    - Withdrawn, Weak, Strong
    - Child, Woman, Man
    - ?, Complete Mismatch (Dishonorable setup), Worthy adversary (Honorable Duel)
