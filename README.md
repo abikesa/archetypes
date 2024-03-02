@@ -36,7 +36,7 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Root, Triad, Extensions
    - Pussies, Assholes, Dicks
    - Child, Man, Divine
-   - 1-3, 4-200, '000s
+   - 1-3, 4-200, ['000s](https://www.youtube.com/watch?v=Mw8NR6p8gyI)
    - Love, Virtue, Evil
    - Flock, Priest, Warrior
    - Seeketh, Findeth, Commandeth
