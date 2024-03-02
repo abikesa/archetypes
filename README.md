@@ -69,6 +69,7 @@ The possibility was [discussed](https://en.wikipedia.org/wiki/Casablanca_(film)#
    - Child, Woman, Man
    - ?, Complete Mismatch (Dishonorable setup), Worthy adversary (Honorable Duel)
    - Unallied, Triumphant, Attack
+   - Silence, Gentility, [Rudeness](https://github.com/abikesa/hideth/blob/main/README.md)
    
 > Their [love triangle](https://calgaryherald.com/news/local-news/casablanca-had-a-rocky-start-80-years-later-still-a-classic-from-the-archives)— scandalous for Hollywood at the time — fuels the tension of the movie as a succession of desperate refugees visit Rick’s Café Américain in Morocco while trying to escape the viciousness of Nazi-occupied Europe
 
